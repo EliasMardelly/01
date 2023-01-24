@@ -1,0 +1,13 @@
+#titulo {
+    text-decoration: underline;
+    color: aquamarine;
+}
+
+#elemento-1 {
+    color: red;
+}
+
+.font {
+    font-size: 2rem;
+}
+
